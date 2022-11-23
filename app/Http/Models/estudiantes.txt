@@ -1,0 +1,6 @@
+Martin:Gimenez:17:Aprobado
+Sebastian:Fernandez:18:Apriobado
+Antonio:Jose:21:Examen
+Enrique:Perez:22:Examen
+Diogenes:Sinope:999+:Muerto
+Alejandro:Magno:999+:Muerto
